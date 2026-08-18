@@ -188,6 +188,15 @@ Forecasts should therefore be reviewed and updated regularly as new data becomes
 - Business Analysis
 
 ---
+## Project Preview
+
+### Excel Marketing Dashboard
+
+![Excel Marketing Dashboard](exceldashboard.png)
+
+### Forecasting Analysis
+
+![Forecasting Analysis](forecastinganalysis.png)
 
 ## Project Outputs
 
