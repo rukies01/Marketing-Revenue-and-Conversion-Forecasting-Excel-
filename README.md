@@ -200,7 +200,9 @@ Forecasts should therefore be reviewed and updated regularly as new data becomes
 
 ## Project Outputs
 
-The project includes:
+## Project Outputs
+
+The complete project includes:
 
 - Historical marketing performance analysis
 - Revenue forecasting
@@ -210,6 +212,12 @@ The project includes:
 - Seasonality-aware ETS forecasting
 - Marketing performance dashboard
 - Business recommendations
+
+### Project Files
+
+📊 [Download the Excel Analysis](Marketing_Revenue_Conversion_Forecasting.xlsx)
+
+📄 [View the Full Project Report](Marketing_Revenue_Conversion_Forecasting_Report.pdf)
 
 ---
 
