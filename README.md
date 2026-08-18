@@ -196,7 +196,7 @@ Forecasts should therefore be reviewed and updated regularly as new data becomes
 
 ### Forecasting Analysis
 
-![Forecasting Analysis](Forecast%20Analysis.png)
+![Forecast Analysis](Forecast%20Analysis.png)
 
 ## Project Outputs
 
