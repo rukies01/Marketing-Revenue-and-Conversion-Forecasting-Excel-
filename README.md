@@ -192,11 +192,11 @@ Forecasts should therefore be reviewed and updated regularly as new data becomes
 
 ### Excel Marketing Dashboard
 
-![Excel Marketing Dashboard](exceldashboard.png)
+![Excel Marketing Dashboard](Excel%20Dashboard.png)
 
 ### Forecasting Analysis
 
-![Forecasting Analysis](forecastinganalysis.png)
+![Forecasting Analysis](Forecasting%20Analysis.png)
 
 ## Project Outputs
 
